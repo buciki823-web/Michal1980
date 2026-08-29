@@ -1,0 +1,7 @@
+{
+  "name": "Piper Lektor - Tampermonkey Script & Test Studio",
+  "description": "Panel konfiguracyjny, symulator odtwarzania oraz instalator skryptu Tampermonkey gemini1 (Piper TTS Lektor do Immersive Translate, Netflix, YouTube, Prime i Disney+).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
